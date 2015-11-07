@@ -1,0 +1,29 @@
+$
+$ =============================================================
+$ ========== USER MACROS ======================================
+$ =============================================================
+$
+|AUTHOR|    = michaelpei
+|AUTHORREF| = Pei Xingxin
+|EMAIL|     = michaelpei@tencent.com 
+|COPYRIGHT| = Copyright (c) |YEAR|, Tencent
+|STYLE|     = CPP 
+$
+$ =============================================================
+$ ========== FILE INCLUDES ====================================
+$ =============================================================
+$
+|includefile| = c.comments.template
+|includefile| = c.cpp.template
+|includefile| = c.idioms.template
+|includefile| = c.preprocessor.template
+|includefile| = c.statements.template
+$
+== IF |STYLE| IS CPP ==
+|includefile| = cpp.comments.template
+|includefile| = cpp.cpp.template
+|includefile| = cpp.idioms.template
+|includefile| = cpp.preprocessor.template
+|includefile| = cpp.statements.template
+== ENDIF ==
+$

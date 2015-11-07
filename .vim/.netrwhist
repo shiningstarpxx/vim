@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Users/liulu/Code/Tencent/gdt/java/com/gdt/monitor/counter'
+let g:netrw_dirhist_2='/Users/liulu/Code/Tencent/gdt/java/com/gdt/marvel/dump_hbase'
+let g:netrw_dirhist_3='/Users/liulu/Code/Tencent/gdt/go/src/tencent.com/syncthing/deploy/conf/marvel'
+let g:netrw_dirhist_4='/Users/liulu/Code/Tencent/gdt'
+let g:netrw_dirhist_5='/data8/michaelpei/gdt/spa-trunck/thirdparty/buck/config'
+let g:netrw_dirhist_6='/data8/michaelpei/gdt/spa-trunck/thirdparty/buck/scripts'
+let g:netrw_dirhist_7='/Users/liulu/.vim/bundle/ack.vim'

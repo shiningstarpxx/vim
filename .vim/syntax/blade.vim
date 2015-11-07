@@ -1,0 +1,1 @@
+/data8/michaelpei/gdt/spa-trunk/thirdparty/blade/vim/syntax/blade.vim
